@@ -1,18 +1,19 @@
 from dotenv import load_dotenv
-
+import mysql.connector as sql
 import os
 
 class DbConnectorDataSet:
     def __init__(self):
         load_dotenv()
         conn = sql.connect(
-            dbname=os.getenv("DB_NAME"),
+            host=os.getenv("DB_HOST"),
+            port=os.getenv("DB_PORT"),
             user=os.getenv("DB_USER"),
             password=os.getenv("DB_PASSWORD"),
-            host=os.getenv("DB_HOST"),
-            port=os.getenv("DB_PORT")
+            database=os.getenv("DB_NAME")
         )
-        conn.execute("""
+        cur = conn.cursor()
+        cur.execute("""
         CREATE TABLE IF NOT EXISTS raw_data (id SERIAL PRIMARY KEY,
                                             nom_raison_sociale TEXT,
                                             nombre_etablissements_ouverts INTEGER,
@@ -25,7 +26,6 @@ class DbConnectorDataSet:
                                             section_activite_principale TEXT,
                                             tranche_effectif_salarie TEXT,
                                             departement VARCHAR(3))""")
-        conn.commit()
 
 
     def insert_new_values(self, features):
