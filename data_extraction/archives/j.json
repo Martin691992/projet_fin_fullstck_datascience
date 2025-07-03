@@ -1,0 +1,963 @@
+[
+    {'updatedAt': '2024-02-22T18: 05: 15+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ac664e9e350d00150c9b21', 'formality': {'siren': '751328683', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-11', 'societeEtrangere': False, 'formeJuridique': '5499', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '35800', 'commune': 'SAINT-BRIAC-SUR-MER', 'codeInseeCommune': '35256', 'typeVoie': 'CHE', 'voie': 'DU PERRON', 'numVoie': '16', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '75132868300022', 'activiteNonSedentaire': False, 'enseigne': 'NICE THINGS PALOMA S.', 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '1', 'dateEffetFermeture': '2023-06-20', 'codeApe': '4771Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '35800', 'commune': 'Saint-Briac-sur-Mer', 'codeInseeCommune': '35256', 'typeVoie': 'CHE', 'voie': ' 16 Chemin du Perron', 'numVoie': '16', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '06030100', 'activiteId': '6daba950-0ed6-4083-93b7-3642ce5d03b5', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-05-03', 'dateFin': '2023-09-07', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '06', 'categorisationActivite2': '03', 'categorisationActivite3': '01', 'descriptionDetaillee': 'prêt A porter femmes et accessoires commerce de détail', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '4771Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-05-03T00: 00: 00+02: 00'
+                                }
+                            }
+                        },
+                        {'descriptionEtablissement': {'rolePourEntreprise': '14', 'siret': '75132868300014', 'enseigne': 'NICE THINGS PALOMA S.', 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateEffetFermeture': '2021-05-03', 'codeApe': '4771Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '33000', 'commune': 'BORDEAUX', 'codeInseeCommune': '33063', 'typeVoie': 'RUE', 'voie': 'DES REMPARTS', 'numVoie': '54'
+                            }, 'activites': [
+                                {'activiteId': '02a8516f-0193-4b40-a3b3-6b36816ac15a', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2012-06-12', 'dateFin': '2021-05-03', 'descriptionDetaillee': "Commerce de détail d'habillement en magasin spécialisé", 'indicateurActiviteeApe': True, 'rolePrincipalPourEntreprise': False, 'codeApe': '4771Z', 'activiteRattacheeEirl': False
+                                }
+                            ]
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-09-07', 'dateRadiation': '2023-09-07'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '40129bb9-9b02-4625-8dc0-3cee3992c4d6', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1970-12', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'HANICOTTE', 'prenoms': ['JULIE', 'NATHALIE', 'BEATRICE'
+                                        ], 'nomUsage': 'HANICOTTE'
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '35800', 'commune': 'Saint-Briac-sur-Mer', 'codeInseeCommune': '35256'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '48248', 'dateAjout': '2021-08-12', 'texte': " Radiation d'office sur réquisition du greffier du tribunal de commerce de Saint-Malo par suite de transfert du siège social à compter du 03/05/2021 du 54 Rue des Remparts 33000 Bordeaux au 16 Chemin du perron 35800 Saint-Briac-sur-Mer Modification de la forme juridique Ancienne valeur : Société à responsabilité limitée (SARL) (société à associé unique ) Transfert d'un établissement dans le ressort du greffe (transfert entrant) Ancienne valeur : Adresse de l'établissement, 54 Rue des Remparts 33000 Bordeaux ", 'dateGreffe': '2021-08-12', 'etatObs': 'Ajout', 'dateDerModif': '2022-11-16'
+                            },
+                            {'dateAjout': '2023-06-29', 'texte': " Dissolution à compter du 20/06/2023 selon procès-verbal d'assemblée générale en date du 20/06/2023, siège de la liquidation : 16 Chemin du perron 35800 Saint-Briac-sur-Mer, parution de la publicité légale : 7 jours paru le 01/07/2023 ", 'dateGreffe': '2023-06-29', 'etatObs': 'Ajout', 'dateDerModif': '2023-06-30'
+                            },
+                            {'numObservation': '6410', 'dateAjout': '2023-06-29', 'texte': " Cessation totale d'activité à compter du 20/06/2023 sans disparition de la personne morale ", 'dateGreffe': '2023-06-29', 'etatObs': 'Ajout', 'dateDerModif': '2023-06-30'
+                            },
+                            {'numObservation': '8505', 'dateAjout': '2023-09-07', 'texte': ' Clôture des opérations de liquidation amiable avec effet à compter du 31/07/2023 ', 'dateGreffe': '2023-09-07', 'etatObs': 'Ajout', 'dateDerModif': '2023-09-19'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '751328683', 'denomination': 'PIU PIU', 'formeJuridique': '5499', 'nicSiege': '00022', 'codeApe': '4771Z', 'dateImmat': '2021-08-11', 'dateDebutActiv': '2012-06-12', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': 'Prêt à porter femmes et accessoires, commerce de détail', 'duree': 90, 'dateClotureExerciceSocial': '3107', 'datePremiereCloture': '2013-07-31', 'ess': False, 'capitalVariable': False, 'montantCapital': 10000.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-11T00: 00: 00+02: 00', 'dateRadiation': '2023-09-07T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5499'
+        }, 'siren': '751328683'
+    },
+    {'updatedAt': '2024-02-23T00: 09: 37+01: 00', 'nombreRepresentantsActifs': 0, 'nombreEtablissementsOuverts': 0, 'id': '63acb3834c0325994604c29d', 'formality': {'siren': '801097957', 'content': {'formeExerciceActivitePrincipale': 'ARTISANALE', 'natureCreation': {'dateCreation': '2021-08-02', 'societeEtrangere': False, 'formeJuridique': '1000', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personnePhysique': {'adresseEntreprise': {'caracteristiques': {'ambulant': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '34120', 'commune': 'PEZENAS', 'codeInseeCommune': '34199', 'typeVoie': 'CHE', 'voie': 'DE LA CARRIERE DE MERCADALE'
+                        }
+                    }, 'etablissementPrincipal': {'descriptionEtablissement': {'rolePourEntreprise': '3', 'siret': '80109795700022', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': True, 'statutPourFormalite': '5', 'codeApe': '2341Z', 'etablissementValidated': False, 'etablissementRdd': True
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '34120', 'commune': 'PEZENAS', 'codeInseeCommune': '34199', 'typeVoie': 'CHE', 'voie': 'DE LA CARRIERE DE MERCADALE', 'caracteristiques': {'ambulant': False
+                            }
+                        }, 'activites': [
+                            {'categoryCode': '02070200', 'activiteId': 'e9c02019-4eff-46ae-b9b6-be4540943beb', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-08-01', 'exerciceActivite': 'P', 'indicateurNonSedentaire': False, 'formeExercice': 'ARTISANALE', 'categorisationActivite1': '02', 'categorisationActivite2': '07', 'categorisationActivite3': '02', 'codeAprm': '2341ZZ', 'descriptionDetaillee': "FABRICATION D'ARTICLES CERAMIQUES A USAGE DOMESTIQUE OU ORNEMENTAL", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '2341Z', 'activiteRattacheeEirl': True, 'origine': {'typeOrigine': '1'
+                                }
+                            }
+                        ], 'registreAnterieur': {'raa': {'estPresent': False
+                            }, 'rnm': {'estPresent': True, 'dateDebut': '2021-08-01T00: 00: 00+02: 00'
+                            }, 'rncs': {'estPresent': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '14', 'siret': '80109795700014', 'nomCommercial': "FILLE DE L'R", 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateEffetFermeture': '2015-06-30', 'codeApe': '2341Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '34120', 'commune': 'PEZENAS', 'codeInseeCommune': '34199', 'typeVoie': 'RUE', 'voie': 'DU CHATEAU', 'numVoie': '3'
+                            }, 'activites': [
+                                {'activiteId': '55a73568-0ab1-4b41-af24-c2579aca7782', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2014-04-01', 'dateFin': '2015-06-30', 'descriptionDetaillee': "Fabrication d'articles céramiques à usage domestique ou ornemental", 'indicateurActiviteeApe': True, 'rolePrincipalPourEntreprise': False, 'codeApe': '2341Z', 'activiteRattacheeEirl': False
+                                }
+                            ]
+                        }
+                    ], 'identite': {'adresseCorrespondancePresent': False, 'entreprise': {'siren': '801097957', 'formeJuridique': '1000', 'nicSiege': '00022', 'codeApe': '2341Z', 'dateImmat': '2021-08-02', 'origineId': '1', 'effectifSalarie': '0', 'effectifApprenti': '0', 'dateDebutActiv': '2014-04-01', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'entrepreneur': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': True, 'titrePresent': False, 'dateDeNaissance': '1969-03', 'dateDeNaissancePresent': True, 'paysNaissancePresent': False, 'codePaysNaissancePresent': False, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'nom': 'BADEL', 'prenoms': ['RACHEL', 'CATHERINE', 'JOSEPHINE'
+                                ], 'genre': '2', 'nomUsage': 'VANIER'
+                            }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '34120', 'commune': 'PEZENAS', 'codeInseeCommune': '34199'
+                            }, 'qualiteArtisan': 'SANS QUALIFICATION'
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': True, 'dateImmatriculation': '2021-08-02T00: 00: 00+02: 00'
+                    }, 'rncs': {'estPresent': False
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'P', 'diffusionCommerciale': True, 'formeJuridique': '1000'
+        }, 'siren': '801097957'
+    },
+    {'updatedAt': '2024-02-22T22: 50: 55+01: 00', 'nombreRepresentantsActifs': 0, 'nombreEtablissementsOuverts': 0, 'id': '63aca4237202997c640f9f59', 'formality': {'siren': '798219804', 'content': {'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-13', 'societeEtrangere': False, 'formeJuridique': '1000', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personnePhysique': {'adresseEntreprise': {'caracteristiques': {'ambulant': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '26600', 'commune': 'BEAUMONT-MONTEUX', 'codeInseeCommune': '26038', 'typeVoie': 'RTE', 'voie': 'DU VERCORS', 'numVoie': '2'
+                        }
+                    }, 'etablissementPrincipal': {'descriptionEtablissement': {'rolePourEntreprise': '3', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '79821980400027', 'activiteNonSedentaire': False, 'nomCommercial': 'JOA COIFFURE', 'indicateurEtablissementPrincipal': True, 'statutPourFormalite': '5', 'codeApe': '9602A', 'etablissementValidated': False, 'etablissementRdd': True
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '26600', 'commune': 'BEAUMONT-MONTEUX', 'codeInseeCommune': '26038', 'typeVoie': 'RTE', 'voie': 'DU VERCORS', 'numVoie': '2', 'caracteristiques': {'ambulant': False
+                            }
+                        }, 'activites': [
+                            {'categoryCode': '07160100', 'activiteId': '028da400-a281-4b60-a6ce-b1d5fa3717e2', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-08-26', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '07', 'categorisationActivite2': '16', 'categorisationActivite3': '01', 'codeAprm': '9602AA', 'descriptionDetaillee': 'Salon de coiffure et vente de produits.', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '9602A', 'activiteRattacheeEirl': True, 'origine': {'typeOrigine': '9', 'autreOrigine': "Achat d'un fonds artisanal"
+                                }
+                            },
+                            {'categoryCode': '07160500', 'activiteId': 'd019b7e4-ef60-42e1-a11b-9b9e6957be4a', 'indicateurPrincipal': False, 'indicateurProlongement': False, 'dateDebut': '2021-08-26', 'exerciceActivite': 'P', 'indicateurNonSedentaire': False, 'formeExercice': 'ARTISANALE_REGLEMENTEE', 'categorisationActivite1': '07', 'categorisationActivite2': '16', 'categorisationActivite3': '05', 'codeAprm': '9602AA', 'descriptionDetaillee': 'SALON DE COIFFURE', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': False, 'codeApe': '9602A', 'activiteRattacheeEirl': True, 'origine': {'typeOrigine': '3'
+                                }
+                            }
+                        ], 'registreAnterieur': {'raa': {'estPresent': False
+                            }, 'rnm': {'estPresent': True, 'dateDebut': '2021-08-26T00: 00: 00+02: 00'
+                            }, 'rncs': {'estPresent': True, 'dateDebut': '2021-08-26T00: 00: 00+02: 00'
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '14', 'siret': '79821980400019', 'enseigne': 'OCEANE COIFFURE', 'nomCommercial': 'DOULCIER', 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateEffetFermeture': '2014-08-30', 'codeApe': '9602A', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '26250', 'commune': 'LIVRON-SUR-DROME', 'codeInseeCommune': '26165', 'typeVoie': 'LOT', 'voie': 'LES CHANTERELLES', 'numVoie': '9'
+                            }, 'activites': [
+                                {'activiteId': '0613f3c8-95ba-4a62-bd57-4686c00eda5d', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2013-10-23', 'dateFin': '2014-08-30', 'descriptionDetaillee': 'Coiffure', 'indicateurActiviteeApe': True, 'rolePrincipalPourEntreprise': False, 'codeApe': '9602A', 'activiteRattacheeEirl': False
+                                }
+                            ]
+                        }
+                    ], 'identite': {'adresseCorrespondancePresent': False, 'entreprise': {'siren': '798219804', 'formeJuridique': '1000', 'nicSiege': '00027', 'nomCommercial': 'JOA COIFFURE', 'codeApe': '9602A', 'dateImmat': '2021-08-13', 'origineId': '3', 'effectifSalarie': '0', 'effectifApprenti': '0', 'dateDebutActiv': '2013-10-23', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'entrepreneur': {'descriptionPersonne': {'sirenPresent': True, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': True, 'titrePresent': False, 'dateDeNaissance': '1995-06', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'nom': 'DOULCIER', 'prenoms': ['OCEANE', 'LILIANE', 'YVETTE'
+                                ], 'genre': '2', 'nomUsage': 'DOULCIER', 'siren': '798219804'
+                            }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '26500', 'commune': 'Bourg-lès-Valence', 'codeInseeCommune': '26058'
+                            }, 'qualiteArtisan': 'ARTISAN'
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': True, 'dateImmatriculation': '2021-08-13T00: 00: 00+02: 00'
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-09-20T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'P', 'diffusionCommerciale': True, 'formeJuridique': '1000'
+        }, 'siren': '798219804'
+    },
+    {'updatedAt': '2024-02-23T14: 47: 35+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ad496d1669e439ca09fe27', 'formality': {'siren': '838088615', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-08', 'societeEtrangere': False, 'formeJuridique': '5499', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '78250', 'commune': 'MEULAN-EN-YVELINES', 'codeInseeCommune': '78401', 'typeVoie': 'RUE', 'voie': 'HAUTE', 'numVoie': '39', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '83808861500029', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '1', 'dateEffetFermeture': '2022-11-02', 'codeApe': '6110Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '78250', 'commune': 'Meulan-en-Yvelines', 'codeInseeCommune': '78401', 'typeVoie': 'RUE', 'voie': ' 39 Rue Haute', 'numVoie': '39', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '02080800', 'activiteId': '29f2d347-f44f-41e7-ac60-f7aa059f53e5', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-26', 'dateFin': '2022-11-29', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '02', 'categorisationActivite2': '08', 'categorisationActivite3': '08', 'descriptionDetaillee': "Télécommunication, gestion et maintenance de réseaux télécom, courant fort. Tout corps d'état, en sous-traitance donneur d'ordre.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '6110Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-07-26T00: 00: 00+02: 00'
+                                }
+                            }
+                        },
+                        {'descriptionEtablissement': {'rolePourEntreprise': '14', 'siret': '83808861500011', 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateEffetFermeture': '2021-07-26', 'codeApe': '4321A', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '75001', 'commune': 'PARIS 1', 'codeInseeCommune': '75101', 'typeVoie': 'RUE', 'voie': 'SAINT GERMAIN L AUXERROIS', 'numVoie': '30'
+                            }, 'activites': [
+                                {'activiteId': 'bd1d9bb2-bbdb-4623-9e53-54436bfc17ff', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2018-03-01', 'dateFin': '2021-07-26', 'codeAprm': '4321AB', 'descriptionDetaillee': "Travaux d'installation électrique dans tous locaux", 'indicateurActiviteeApe': True, 'rolePrincipalPourEntreprise': False, 'codeApe': '4321A', 'activiteRattacheeEirl': False
+                                }
+                            ]
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2022-11-29', 'dateRadiation': '2022-11-29'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '400d253e-ab42-4f01-aeac-95f3a1ddbf9c', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1953-10', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'Fiaz', 'prenoms': ['MOHAMMAD'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '91940', 'commune': 'Les Ulis', 'codeInseeCommune': '91692'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '2018B068699', 'dateAjout': '2021-08-10', 'texte': 'RADIATION : ENTREPRISE DESORMAIS IMMATRICULEE AU RCS DE Versailles SOUS LE NUMERO 2021B4801 ', 'dateGreffe': '2021-08-10', 'etatObs': 'Ajout', 'dateDerModif': '2021-08-10'
+                            },
+                            {'dateAjout': '2022-11-25', 'texte': " Dissolution à compter du 02/11/2022 selon procès-verbal d'assemblée générale en date du 02/11/2022, siège de la liquidation : 39 Rue haute 78250 Meulan-en-Yvelines, parution de la publicité légale : Les Echos paru le 07/11/2022 ", 'dateGreffe': '2022-11-25', 'etatObs': 'Ajout', 'dateDerModif': '2022-11-26'
+                            },
+                            {'numObservation': '55751', 'dateAjout': '2022-11-29', 'texte': ' Clôture des opérations de liquidation amiable avec effet à compter du 02/11/2022 ', 'dateGreffe': '2022-11-29', 'etatObs': 'Ajout', 'dateDerModif': '2022-11-30'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '838088615', 'denomination': 'TIF', 'formeJuridique': '5499', 'nicSiege': '00029', 'codeApe': '6110Z', 'dateImmat': '2021-08-08', 'dateDebutActiv': '2018-03-01', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "Télécommunication, gestion et maintenance de réseaux télécom, courant fort. Tout corps d'état, en sous-traitance donneur d'ordre.", 'duree': 96, 'dateClotureExerciceSocial': '3112', 'datePremiereCloture': '2018-12-31', 'ess': False, 'capitalVariable': False, 'montantCapital': 2000.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': False, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-08T00: 00: 00+02: 00', 'dateRadiation': '2022-11-29T00: 00: 00+01: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5499'
+        }, 'siren': '838088615'
+    },
+    {'updatedAt': '2024-02-24T14: 48: 42+01: 00', 'nombreRepresentantsActifs': 0, 'nombreEtablissementsOuverts': 1, 'id': '63ae454349fa7d1258134617', 'formality': {'siren': '903371888', 'content': {'natureCreation': {'dateCreation': '2021-08-01', 'formeJuridique': '5499', 'microEntreprise': False, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': True, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '29190', 'commune': 'LENNON', 'codeInseeCommune': '29123', 'typeVoie': 'PL', 'voie': "DE L'EGLISE", 'numVoie': '19', 'indiceRepetition': 'B'
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '1', 'siret': '90337188800012', 'enseigne': "L'OPALE", 'nomCommercial': "L'OPALE PRODUCTION", 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateFinActivite': '2021-08-01', 'codeApe': '5911A', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': True, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '29190', 'commune': 'LENNON', 'codeInseeCommune': '29123', 'typeVoie': 'PL', 'voie': "DE L'EGLISE", 'numVoie': '19', 'indiceRepetition': 'B'
+                            }, 'activites': [
+                                {'activiteId': 'a46c8031-7643-4fdd-8f0b-565ecc25cfd5', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-08-01', 'dateFin': '2021-08-01', 'descriptionDetaillee': 'Production de films et de programmes pour la télévision ', 'indicateurActiviteeApe': True, 'rolePrincipalPourEntreprise': False, 'codeApe': '5911A', 'activiteRattacheeEirl': False
+                                }
+                            ]
+                        }
+                    ], 'identite': {'entreprise': {'siren': '903371888', 'denomination': "L'OPALE PRODUCTION", 'formeJuridique': '5499', 'nicSiege': '00012', 'codeApe': '5911A', 'dateImmat': '2021-08-01', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'ess': False, 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': False, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }, 'structureEntreprise': {'indicateurPrincipalIdemSiege': False
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5499'
+        }, 'siren': '903371888'
+    },
+    {'updatedAt': '2024-02-24T13: 43: 27+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 1, 'id': '63ae3b196c5cbb032e0cedf3', 'formality': {'siren': '901972521', 'content': {'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-03', 'societeEtrangere': False, 'formeJuridique': '5710', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '75008', 'commune': 'PARIS 8', 'codeInseeCommune': '75108', 'typeVoie': 'BD', 'voie': 'DE COURCELLES', 'numVoie': '47'
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '1', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90197252100016', 'activiteNonSedentaire': False, 'nomCommercial': 'Connect Skills', 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '3', 'dateFinActivite': '2021-12-06', 'codeApe': '8299Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '75008', 'commune': 'Paris', 'codeInseeCommune': '75108', 'typeVoie': 'BD', 'voie': '47 boulevard de Courcelles ', 'numVoie': '47', 'caracteristiques': {'ambulant': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '07121201', 'activiteId': '3a9f81b9-82c3-4038-93ca-42989ad1c2d8', 'indicateurPrincipal': False, 'indicateurProlongement': False, 'dateDebut': '2021-10-01', 'dateFin': '2022-01-04', 'indicateurNonSedentaire': False, 'formeExercice': 'AGENT_COMMERCIAL', 'categorisationActivite1': '07', 'categorisationActivite2': '12', 'categorisationActivite3': '12', 'categorisationActivite4': '01', 'descriptionDetaillee': "Activité de portage salarial : Le portage salarial est une relation contractuelle tripartite dans laquelle un salarié porté d'une entreprise de portage salarial effectue une prestation pour le compte d'entreprises clientes. D'une part, un contrat de travail est établi entre le salarié porté et l'entreprise de portage salarial. D'autre part, un contrat commercial est établi entre l'entreprise de portage salarial et l'entreprise cliente.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': False, 'codeApe': '8299Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                },
+                                {'categoryCode': '07121100', 'activiteId': '38027377-55d8-4e81-b88b-de5b838ba3e8', 'indicateurPrincipal': False, 'indicateurProlongement': False, 'dateDebut': '2021-10-01', 'dateFin': '2022-01-04', 'indicateurNonSedentaire': False, 'formeExercice': 'LIBERALE_NON_REGLEMENTEE', 'categorisationActivite1': '07', 'categorisationActivite2': '12', 'categorisationActivite3': '11', 'descriptionDetaillee': "Activité de portage salarial : Le portage salarial est une relation contractuelle tripartite dans laquelle un salarié porté d'une entreprise de portage salarial effectue une prestation pour le compte d'entreprises clientes. D'une part, un contrat de travail est établi entre le salarié porté et l'entreprise de portage salarial. D'autre part, un contrat commercial est établi entre l'entreprise de portage salarial et l'entreprise cliente.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': False, 'codeApe': '8299Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                },
+                                {'categoryCode': '07121000', 'activiteId': '2ef5fa3c-b4e5-4579-a8d4-131170f77acd', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-10-01', 'dateFin': '2022-01-04', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '07', 'categorisationActivite2': '12', 'categorisationActivite3': '10', 'descriptionDetaillee': "Activité de portage salarial : Le portage salarial est une relation contractuelle tripartite dans laquelle un salarié porté d'une entreprise de portage salarial effectue une prestation pour le compte d'entreprises clientes. D'une part, un contrat de travail est établi entre le salarié porté et l'entreprise de portage salarial. D'autre part, un contrat commercial est établi entre l'entreprise de portage salarial et l'entreprise cliente.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '8299Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-10-01T00: 00: 00+02: 00', 'dateFin': '2022-01-04T00: 00: 00+01: 00'
+                                }
+                            }
+                        }
+                    ], 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '73', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '9e37a4be-57df-46e9-a416-1f69a4722f9b', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1985-03', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '73', 'nom': 'Charfi', 'prenoms': ['LUCAS', 'MALEK'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '92700', 'commune': 'Colombes', 'codeInseeCommune': '92025'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901972521', 'denomination': 'CONNECT SKILLS', 'formeJuridique': '5710', 'nicSiege': '00016', 'codeApe': '8299Z', 'dateImmat': '2021-08-03', 'dateDebutActiv': '2021-10-01', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "Activité de portage salarial : Le portage salarial est une relation contractuelle tripartite dans laquelle un salarié porté d'une entreprise de portage salarial effectue une prestation pour le compte d'entreprises clientes. D'une part, un contrat de travail est établi entre le salarié porté et l'entreprise de portage salarial. D'autre part, un contrat commercial est établi entre l'entreprise de portage salarial et l'entreprise cliente.", 'duree': 99, 'dateClotureExerciceSocial': '3112', 'datePremiereCloture': '2022-12-31', 'ess': False, 'capitalVariable': False, 'montantCapital': 500.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': True
+                        }
+                    }, 'structureEntreprise': {'indicateurPrincipalIdemSiege': False
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-03T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5710'
+        }, 'siren': '901972521'
+    },
+    {'updatedAt': '2024-02-24T13: 43: 28+01: 00', 'nombreRepresentantsActifs': 3, 'nombreEtablissementsOuverts': 0, 'id': '63ae3b1a4c8b4e83ab0d23e5', 'formality': {'siren': '901972570', 'content': {'natureCessation': '1', 'natureCreation': {'dateCreation': '2021-08-03', 'societeEtrangere': False, 'formeJuridique': '6540', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '45510', 'commune': 'VIENNE-EN-VAL', 'codeInseeCommune': '45335', 'typeVoie': 'RTE', 'voie': "D'ORLEANS", 'numVoie': '39', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'siret': '90197257000013', 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateEffetFermeture': '2022-11-15', 'codeApe': '7010Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '45510', 'commune': 'VIENNE-EN-VAL', 'codeInseeCommune': '45335', 'typeVoie': 'RTE', 'voie': "D'ORLEANS", 'numVoie': '39'
+                            }, 'activites': [
+                                {'activiteId': 'b8b78db6-bc3c-413d-a9bc-c9d524ff1717', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-16', 'dateFin': '2022-11-15', 'descriptionDetaillee': 'Activités des sièges sociaux', 'indicateurActiviteeApe': True, 'rolePrincipalPourEntreprise': False, 'codeApe': '7010Z', 'activiteRattacheeEirl': False
+                                }
+                            ]
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-03-06', 'dateRadiation': '2023-03-06'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '75', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '26e17256-58c9-4018-918f-6e1c917d6182', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1975-05', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '75', 'nom': 'BREMOND', 'prenoms': ['ALEXANDRA', 'FREDERIQUE', 'LILIANE'
+                                        ], 'nomUsage': 'CASSINIS'
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '45510', 'commune': 'Vienne-en-Val', 'codeInseeCommune': '45335'
+                                    }
+                                }
+                            },
+                            {'roleEntreprise': '75', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'f8ed14c7-039e-4b80-8d69-65f93578785e', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '2004-12', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '75', 'nom': 'CASSINIS', 'prenoms': ['ELISA'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '45510', 'commune': 'Vienne-en-Val', 'codeInseeCommune': '45335'
+                                    }
+                                }
+                            },
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '0164af84-5c66-4818-82f1-d298828ecdf3', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '2000-09', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'Cassinis', 'prenoms': ['VALENTIN'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '45510', 'commune': 'Vienne en Val', 'codeInseeCommune': '45335'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '4', 'dateAjout': '2022-08-08', 'texte': ' Dissolution à compter du 10-07-2022, journal publicateur : 20minutes.fr du : 08-08-2022, adresse de liquidation : au domicile du liquidateur ', 'dateGreffe': '2022-08-08', 'etatObs': 'Ajout', 'dateDerModif': '2022-08-09'
+                            },
+                            {'numObservation': '11', 'dateAjout': '2023-03-06', 'texte': ' Radiation. Clôture des opérations de liquidation le 15-11-2022 ', 'dateGreffe': '2023-03-06', 'etatObs': 'Ajout', 'dateDerModif': '2023-03-07'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901972570', 'denomination': 'EVOA', 'formeJuridique': '6540', 'nicSiege': '00013', 'codeApe': '0000Z', 'dateImmat': '2021-08-03', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "L'acquisition, la prise à bail, la location et l'administration de tous biens mobiliers et immobiliers, et toutes opérations financières, mobilières ou immobilières se rattachant directement ou indirectement à cet objet.", 'duree': 99, 'ess': False, 'capitalVariable': True, 'montantCapital': 1000.0, 'capitalMinimum': 1000.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': False, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-03T00: 00: 00+02: 00', 'dateRadiation': '2023-03-06T00: 00: 00+01: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '6540'
+        }, 'siren': '901972570'
+    },
+    {'updatedAt': '2024-02-24T13: 43: 52+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae3b2c4c8b4e83ab0d248f', 'formality': {'siren': '901975342', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-03', 'societeEtrangere': False, 'formeJuridique': '5710', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '77310', 'commune': 'SAINT-FARGEAU-PONTHIERRY', 'codeInseeCommune': '77407', 'typeVoie': 'CHE', 'voie': 'DE VILLIERS', 'numVoie': '22', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90197534200014', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '1', 'dateEffetFermeture': '2023-06-30', 'codeApe': '7021Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '77310', 'commune': 'Saint-Fargeau-Ponthierry', 'codeInseeCommune': '77407', 'typeVoie': 'CHE', 'voie': ' 22 Chemin de Villiers', 'numVoie': '22', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '07040702', 'activiteId': '2dffb8a1-0fa8-4425-9070-9e240349525a', 'indicateurPrincipal': False, 'indicateurProlongement': False, 'dateDebut': '2021-09-01', 'dateFin': '2023-10-25', 'indicateurNonSedentaire': False, 'formeExercice': 'LIBERALE_NON_REGLEMENTEE', 'categorisationActivite1': '07', 'categorisationActivite2': '04', 'categorisationActivite3': '07', 'categorisationActivite4': '02', 'descriptionDetaillee': 'Community management ; Développement, édition et vente de sites web ; Conseil en communication et marketing digital et toutes activités connexes ou liées.', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': False, 'codeApe': '7021Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                },
+                                {'categoryCode': '07040701', 'activiteId': '409cc851-56f4-4c57-8063-d32d653a1437', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-09-01', 'dateFin': '2023-10-25', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '07', 'categorisationActivite2': '04', 'categorisationActivite3': '07', 'categorisationActivite4': '01', 'descriptionDetaillee': 'Community management ; Développement, édition et vente de sites web ; Conseil en communication et marketing digital et toutes activités connexes ou liées.', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '7021Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-09-01T00: 00: 00+02: 00'
+                                }
+                            }
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-10-25', 'dateRadiation': '2023-10-25'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '74aea17c-84a1-41f7-b036-3bac45db3feb', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1983-03', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'CABECINHAS', 'prenoms': ['SABRINA'
+                                        ], 'nomUsage': 'ANDRE'
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '77310', 'commune': 'Saint-Fargeau-Ponthierry', 'codeInseeCommune': '77407'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'dateAjout': '2023-10-25', 'texte': " Dissolution à compter du 30/06/2023 selon procès-verbal d'assemblée générale en date du 30/06/2023, siège de la liquidation : 22 Chemin de Villiers 77310 Saint-Fargeau-Ponthierry, parution de la publicité légale : leparisien.fr paru le 01/11/2023 ", 'dateGreffe': '2023-10-25', 'etatObs': 'Ajout', 'dateDerModif': '2023-11-04'
+                            },
+                            {'numObservation': '20483', 'dateAjout': '2023-10-25', 'texte': " Cessation totale d'activité à compter du 30/06/2023 sans disparition de la personne morale ", 'dateGreffe': '2023-10-25', 'etatObs': 'Ajout', 'dateDerModif': '2023-11-04'
+                            },
+                            {'numObservation': '20486', 'dateAjout': '2023-10-25', 'texte': ' Clôture des opérations de liquidation amiable avec effet à compter du 30/06/2023 ', 'dateGreffe': '2023-10-25', 'etatObs': 'Ajout', 'dateDerModif': '2023-11-04'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901975342', 'denomination': "COM'M S.A", 'formeJuridique': '5710', 'nicSiege': '00014', 'codeApe': '7021Z', 'dateImmat': '2021-08-03', 'dateDebutActiv': '2021-09-01', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': 'Community management  Développement, édition et vente de sites web  Conseil en communication et marketing digital et toutes activités connexes ou liées.', 'duree': 99, 'dateClotureExerciceSocial': '3006', 'datePremiereCloture': '2022-06-30', 'ess': False, 'capitalVariable': False, 'montantCapital': 1000.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-03T00: 00: 00+02: 00', 'dateRadiation': '2023-10-25T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5710'
+        }, 'siren': '901975342'
+    },
+    {'updatedAt': '2024-02-24T13: 44: 09+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae3b382336741e761569d7', 'formality': {'siren': '901883322', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'LIBERALE_NON_REGLEMENTEE', 'natureCreation': {'dateCreation': '2021-08-02', 'societeEtrangere': False, 'formeJuridique': '5710', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '69003', 'commune': 'LYON 3EME', 'codeInseeCommune': '69383', 'typeVoie': 'RUE', 'voie': 'DE LA VICTOIRE', 'numVoie': '4', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'siret': '90188332200017', 'nomCommercial': 'LE CARRE CONSULTING', 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateEffetFermeture': '2023-01-01', 'codeApe': '7022Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '69003', 'commune': 'LYON 3EME', 'codeInseeCommune': '69383', 'typeVoie': 'RUE', 'voie': 'DE LA VICTOIRE', 'numVoie': '4'
+                            }, 'activites': [
+                                {'categoryCode': '07040802', 'activiteId': '966a269a-6810-42c0-91c3-c894da215832', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-08', 'dateFin': '2023-01-01', 'formeExercice': 'LIBERALE_NON_REGLEMENTEE', 'categorisationActivite1': '07', 'categorisationActivite2': '04', 'categorisationActivite3': '08', 'categorisationActivite4': '02', 'descriptionDetaillee': 'Conseil pour les affaires et autres conseils de gestion', 'indicateurActiviteeApe': True, 'rolePrincipalPourEntreprise': False, 'codeApe': '7022Z', 'activiteRattacheeEirl': False
+                                }
+                            ]
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-06-26', 'dateRadiation': '2023-06-26'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'c58f349f-348c-47a5-81a4-5c2ed21a6e98', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1965-02', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'COMMELIN', 'prenoms': ['OLIVIER', 'JEAN', 'ANDRE'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '74000', 'commune': 'Annecy', 'codeInseeCommune': '74010'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': 'F23/020162', 'dateAjout': '2023-03-01', 'texte': " Cessation totale d'activité à compter du 01/01/2023 ", 'dateGreffe': '2023-03-01', 'etatObs': 'Ajout', 'dateDerModif': '2023-03-13'
+                            },
+                            {'numObservation': 'F23/020162', 'dateAjout': '2023-03-01', 'texte': " Dissolution anticipée de la société à compter du 01/01/2023 - Siège de la liquidation : 4 Rue de la Victoire 69003 LYON - Publicité dans un journal d'annonces légales : Les Echos du 30/12/2022 ", 'dateGreffe': '2023-03-01', 'etatObs': 'Ajout', 'dateDerModif': '2023-03-13'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901883322', 'denomination': 'LE CARRE CONSULTING', 'formeJuridique': '5710', 'nicSiege': '00017', 'codeApe': '7022Z', 'dateImmat': '2021-08-02', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "Prestations de conseil, management de transition et d'accompagnement auprès des entreprises, des collectivités et autres organismes publics ou privés, des particuliers, notamment en matière de stratégie, de finance, de comptabilité, de gestion, de systèmes d'information, d'organisation, de management, de ressources humaines, de marketing et communication, d'administration.", 'duree': 99, 'dateClotureExerciceSocial': '3009', 'datePremiereCloture': '2022-09-30', 'ess': False, 'capitalVariable': False, 'montantCapital': 5000.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-02T00: 00: 00+02: 00', 'dateRadiation': '2023-06-26T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5710'
+        }, 'siren': '901883322'
+    },
+    {'updatedAt': '2024-02-24T13: 44: 25+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae3b482336741e76156a6f', 'formality': {'siren': '901980268', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-03', 'societeEtrangere': False, 'formeJuridique': '5710', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '95300', 'commune': 'PONTOISE', 'codeInseeCommune': '95500', 'typeVoie': 'RUE', 'voie': 'DE TOURAINE', 'numVoie': '27', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90198026800014', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '1', 'dateEffetFermeture': '2022-03-01', 'codeApe': '4791B', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '95300', 'commune': 'Pontoise', 'codeInseeCommune': '95500', 'typeVoie': 'RUE', 'voie': ' 27 Rue de Touraine', 'numVoie': '27', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '06050000', 'activiteId': '811998a9-e782-4e9d-a29d-9c4d5c49df3f', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-21', 'dateFin': '2023-04-01', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '06', 'categorisationActivite2': '05', 'descriptionDetaillee': "L'achat, la vente, l'import et l'export de tous produits et marchandises non réglementés, par tous moyens, et notamment la vente de produits à base d'huile d'argan.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '4791B', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-07-21T00: 00: 00+02: 00'
+                                }
+                            }
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-04-01', 'dateRadiation': '2023-04-01'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'a7c75b94-66ff-4078-9d63-3b0743631180', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1993-08', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'ADNANE', 'prenoms': ['SAAD'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '95300', 'commune': 'Pontoise', 'codeInseeCommune': '95500'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '54238', 'dateAjout': '2022-12-28', 'texte': " Cessation totale d'activité à compter du 01/03/2022 sans disparition de la personne morale ", 'dateGreffe': '2022-12-28', 'etatObs': 'Ajout', 'dateDerModif': '2022-12-29'
+                            },
+                            {'dateAjout': '2022-12-28', 'texte': " Dissolution à compter du 01/03/2022 selon procès-verbal d'assemblée générale en date du 01/03/2022, siège de la liquidation : 27 Rue de Touraine 95300 Pontoise, parution de la publicité légale : Le Parisien paru le 10/01/2023 ", 'dateGreffe': '2022-12-28', 'etatObs': 'Ajout', 'dateDerModif': '2022-12-29'
+                            },
+                            {'numObservation': '10137', 'dateAjout': '2023-04-01', 'texte': ' Clôture des opérations de liquidation amiable avec effet à compter du 30/06/2022 ', 'dateGreffe': '2023-04-01', 'etatObs': 'Ajout', 'dateDerModif': '2023-04-04'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901980268', 'denomination': 'EURO SOCIAL MARKETING', 'formeJuridique': '5710', 'nicSiege': '00014', 'codeApe': '4791B', 'dateImmat': '2021-08-03', 'dateDebutActiv': '2021-07-21', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "L'achat, la vente, l'import et l'export de tous produits et marchandises non réglementés, par tous moyens, et notamment la vente de produits à base d'huile d'argan.", 'duree': 99, 'dateClotureExerciceSocial': '3006', 'datePremiereCloture': '2022-06-30', 'ess': False, 'capitalVariable': False, 'montantCapital': 1000.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-03T00: 00: 00+02: 00', 'dateRadiation': '2023-04-01T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5710'
+        }, 'siren': '901980268'
+    },
+    {'updatedAt': '2024-02-24T13: 44: 25+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae3b4684e84876b0160b99', 'formality': {'siren': '901979781', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-02', 'societeEtrangere': False, 'formeJuridique': '5710', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': True, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '75008', 'commune': 'PARIS 8', 'codeInseeCommune': '75108', 'typeVoie': 'AV', 'voie': 'DES CHAMPS ELYSEES', 'numVoie': '66', 'complementLocalisation': 'LOT 41'
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90197978100019', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '1', 'dateEffetFermeture': '2023-10-17', 'codeApe': '2920Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': True, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '75008', 'commune': 'Paris', 'codeInseeCommune': '75108', 'typeVoie': 'AV', 'voie': 'Lot 41 66 avenue des Champs-Élysées', 'numVoie': '66', 'complementLocalisation': 'LOT 41', 'caracteristiques': {'ambulant': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '02070500', 'activiteId': '3503feeb-2edf-4f31-82ec-4cbb8f6dc99e', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-22', 'dateFin': '2023-10-17', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '02', 'categorisationActivite2': '07', 'categorisationActivite3': '05', 'descriptionDetaillee': 'La fabrication,la réparation,la réhabilitation ou la transformation de caravanes,de remorques de tourisme et de carrosserie ainsi que la transformation, la fabrication et la vente de mobilier et éléments de décoration.', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '2920Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-07-22T00: 00: 00+02: 00'
+                                }
+                            }
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-10-17', 'dateRadiation': '2023-10-17'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '73', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'b6fdc628-e51e-4d9a-8498-7ee2424d4edf', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1964-05', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '73', 'nom': 'Vissac', 'prenoms': ['JEAN-FRANCOIS'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '41200', 'commune': 'Romorantin Lanthenay', 'codeInseeCommune': '41194'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '2021B244398', 'dateAjout': '2023-07-13', 'texte': "Mention d'office : cessation d'activité - art. R123-125 et R123-168 du code de commerce (information de la société de domiciliation). ", 'dateGreffe': '2023-07-13', 'etatObs': 'Ajout', 'dateDerModif': '2023-07-13'
+                            },
+                            {'numObservation': '2021B2443910', 'dateAjout': '2023-10-17', 'texte': "Radiation d'office - art. R 123-136 du code de commerce (à l'expiration d'un délai de trois mois à compter de l'inscription de la mention de cessation d'activité, la société est radiée d'office). ", 'dateGreffe': '2023-10-17', 'etatObs': 'Ajout', 'dateDerModif': '2023-10-17'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901979781', 'denomination': 'LIBERTY CRAFT', 'formeJuridique': '5710', 'nicSiege': '00019', 'codeApe': '2920Z', 'dateImmat': '2021-08-02', 'dateDebutActiv': '2021-07-22', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': 'La fabrication,la réparation,la réhabilitation ou la transformation de caravanes,de remorques de tourisme et de carrosserie ainsi que la transformation, la fabrication et la vente de mobilier et éléments de décoration.', 'duree': 99, 'dateClotureExerciceSocial': '3112', 'datePremiereCloture': '2022-12-31', 'ess': False, 'capitalVariable': False, 'montantCapital': 100.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': False, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-02T00: 00: 00+02: 00', 'dateRadiation': '2023-10-17T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5710'
+        }, 'siren': '901979781'
+    },
+    {'updatedAt': '2024-02-24T13: 44: 35+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae3b4e673de628481266fb', 'formality': {'siren': '901981613', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-03', 'societeEtrangere': False, 'formeJuridique': '5499', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '13400', 'commune': 'AUBAGNE', 'codeInseeCommune': '13005', 'typeVoie': 'CHE', 'voie': 'DE LA GASTEAUDE', 'numVoie': '431', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90198161300010', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '3', 'dateEffetFermeture': '2023-03-08', 'codeApe': '0130Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '13400', 'commune': 'Aubagne', 'codeInseeCommune': '13005', 'typeVoie': 'CHE', 'voie': ' 431 Chemin de la Gasteaude', 'numVoie': '431', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '01020000', 'activiteId': '407de7df-e070-4a1e-9a72-c2330cf0581b', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-16', 'dateFin': '2023-09-18', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '01', 'categorisationActivite2': '02', 'descriptionDetaillee': "Pépinière, commerce de gros de fleurs et plantes, vente d'accessoires et fournitures, de terre végétale et d'agrégats.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '0130Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-07-16T00: 00: 00+02: 00'
+                                }
+                            }
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-09-18', 'dateRadiation': '2023-09-18'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '953e0d3d-078e-47de-8ae4-114a78d529cf', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1990-07', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'CUTTICA', 'prenoms': ['ANTHONY'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '13400', 'commune': 'Aubagne', 'codeInseeCommune': '13005'
+                                    }
+                                }
+                            },
+                            {'roleEntreprise': '30', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'ce2d8fd9-0e49-4bcb-b462-34be0b2fe72c', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1984-09', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '30', 'nom': 'NIETO', 'prenoms': ['ARNAUD', 'STEPHANE', 'ALBERT'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '13400', 'commune': 'Aubagne', 'codeInseeCommune': '13005'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '24454', 'dateAjout': '2023-06-05', 'texte': " Cessation totale d'activité à compter du 08/03/2023 sans disparition de la personne morale ", 'dateGreffe': '2023-06-05', 'etatObs': 'Ajout', 'dateDerModif': '2023-06-06'
+                            },
+                            {'dateAjout': '2023-06-05', 'texte': " Dissolution à compter du 08/03/2023 selon procès-verbal d'assemblée générale en date du 08/03/2023, siège de la liquidation : ROUTE BEAUDINARD 230 traverse Guis 13400 Aubagne, parution de la publicité légale : Libération paru le 03/07/2023 ", 'dateGreffe': '2023-06-05', 'etatObs': 'Ajout', 'dateDerModif': '2023-06-06'
+                            },
+                            {'numObservation': '41011', 'dateAjout': '2023-09-18', 'texte': ' Clôture des opérations de liquidation amiable avec effet à compter du 08/03/2023 ', 'dateGreffe': '2023-09-18', 'etatObs': 'Ajout', 'dateDerModif': '2023-09-26'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901981613', 'denomination': 'P2A', 'formeJuridique': '5499', 'nicSiege': '00010', 'codeApe': '0130Z', 'dateImmat': '2021-08-03', 'dateDebutActiv': '2021-07-16', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "Pépinière, commerce de gros de fleurs et plantes, vente d'accessoires et fournitures, de terre végétale et d'agrégats.", 'duree': 99, 'dateClotureExerciceSocial': '3006', 'datePremiereCloture': '2022-06-30', 'ess': False, 'capitalVariable': False, 'montantCapital': 2000.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': False, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-03T00: 00: 00+02: 00', 'dateRadiation': '2023-09-18T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5499'
+        }, 'siren': '901981613'
+    },
+    {'updatedAt': '2024-02-24T13: 41: 14+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae3abd84e84876b016069f', 'formality': {'siren': '901904227', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-02', 'societeEtrangere': False, 'formeJuridique': '5710', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '78280', 'commune': 'GUYANCOURT', 'codeInseeCommune': '78297', 'voie': 'VC CLOS DE LA SCANDINAVIE', 'numVoie': '7', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90190422700013', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '1', 'dateEffetFermeture': '2023-07-04', 'codeApe': '4791B', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '78280', 'commune': 'Guyancourt', 'codeInseeCommune': '78297', 'voie': ' 7 Clos de la Scandinavie', 'numVoie': '7', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '06050000', 'activiteId': '67f42967-1bcf-4878-b5f1-2ca54924015b', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-06-21', 'dateFin': '2023-08-08', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '06', 'categorisationActivite2': '05', 'descriptionDetaillee': 'achat vente import export sur internet et en magasin spécialise de tous produits et articles marchands de décoration D intérieur sous toutes ses formes (tissu D Meublement linge de maison articles de décoration) et de produits artisanaux D Afrique de L ouest( maroquinerie accessoires de décoration)', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '4791B', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-06-21T00: 00: 00+02: 00'
+                                }
+                            }
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-08-08', 'dateRadiation': '2023-08-08'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '04970c57-ff98-446e-8be6-99338a53eb3c', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1978-07', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'SAOU', 'prenoms': ['AISSATA'
+                                        ], 'nomUsage': 'SANE'
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '78280', 'commune': 'Guyancourt', 'codeInseeCommune': '78297'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '41279', 'dateAjout': '2023-08-08', 'texte': ' Clôture des opérations de liquidation amiable avec effet à compter du 04/07/2023 ', 'dateGreffe': '2023-08-08', 'etatObs': 'Ajout', 'dateDerModif': '2023-08-17'
+                            },
+                            {'dateAjout': '2023-08-08', 'texte': " Dissolution à compter du 04/07/2023 selon procès-verbal d'assemblée générale en date du 04/07/2023, siège de la liquidation : 7 clos de la Scandinavie 78280 Guyancourt ", 'dateGreffe': '2023-08-08', 'etatObs': 'Ajout', 'dateDerModif': '2023-08-17'
+                            },
+                            {'numObservation': '41264', 'dateAjout': '2023-08-08', 'texte': " Cessation totale d'activité à compter du 04/07/2023 sans disparition de la personne morale ", 'dateGreffe': '2023-08-08', 'etatObs': 'Ajout', 'dateDerModif': '2023-08-17'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901904227', 'denomination': 'GAALE', 'formeJuridique': '5710', 'nicSiege': '00013', 'codeApe': '4791B', 'dateImmat': '2021-08-02', 'dateDebutActiv': '2021-06-21', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': 'import export achat vente sur internet et en magasin spécialise de tous produits et articles marchands de décoration D intérieur sous toutes ses formes (tissu D Meublement linge de maison articles de décoration) et de produits artisanaux D Afrique de L ouest( maroquinerie accessoires de décoration)', 'duree': 99, 'dateClotureExerciceSocial': '3006', 'datePremiereCloture': '2022-06-30', 'ess': False, 'capitalVariable': False, 'montantCapital': 500.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-02T00: 00: 00+02: 00', 'dateRadiation': '2023-08-08T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5710'
+        }, 'siren': '901904227'
+    },
+    {'updatedAt': '2024-02-24T13: 41: 47+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae3ad34c8b4e83ab0d216f', 'formality': {'siren': '901960716', 'content': {'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-02', 'societeEtrangere': False, 'formeJuridique': '5499', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': True, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '91080', 'commune': 'EVRY-COURCOURONNES', 'codeInseeCommune': '91228', 'typeVoie': 'RUE', 'voie': 'DU MARQUIS DE RAIES', 'numVoie': '42', 'complementLocalisation': 'Courcouronnes', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'etablissementPrincipal': {'descriptionEtablissement': {'rolePourEntreprise': '2', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90196071600016', 'activiteNonSedentaire': False, 'nomCommercial': 'Risecap Services', 'indicateurEtablissementPrincipal': True, 'statutPourFormalite': '1', 'codeApe': '4941B', 'etablissementValidated': False, 'etablissementRdd': True
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': True, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '91080', 'commune': 'Évry-Courcouronnes', 'codeInseeCommune': '91228', 'typeVoie': 'RUE', 'voie': ' 42 Rue du Marquis de Raies', 'numVoie': '42', 'complementLocalisation': 'Courcouronnes', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }, 'activites': [
+                            {'categoryCode': '07010401', 'activiteId': '1b94a826-72ef-4cd5-ad31-698ecc0f7c99', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-28', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '07', 'categorisationActivite2': '01', 'categorisationActivite3': '04', 'categorisationActivite4': '01', 'descriptionDetaillee': "Transports de marchandises, déménagement ou location de véhicules avec conducteurs destinés au transport de marchandises à l'aide de véhicules n'excédant pas 3,5 tonnes.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '4941B', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                }
+                            }
+                        ], 'registreAnterieur': {'raa': {'estPresent': False
+                            }, 'rnm': {'estPresent': False
+                            }, 'rncs': {'estPresent': True, 'dateDebut': '2021-07-28T00: 00: 00+02: 00'
+                            }
+                        }
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '30', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'af693dea-7548-405a-aeb2-0fb867964bb0', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1969-08', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '30', 'nom': 'DARBOUX', 'prenoms': ['NAZAIRE', 'SENAN'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': True, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '91080', 'commune': 'Évry-Courcouronnes', 'codeInseeCommune': '91228'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '34524', 'dateAjout': '2021-08-02', 'texte': " En application de l'article R 123-96 du code de commerce, l'activité est sous condition suspensive de la délivrance de l'autorisation par l'autorité compétente. La pièce justificative doit être fournie au Greffe dans les quinze jours de sa délivrance par l'autorité compétente. Faute pour l'assujetti de respecter ce délai, le greffier procède comme il est dit au 2ème alinéa de l'article R 123-100 du code de commerce. ", 'dateGreffe': '2021-08-02', 'etatObs': 'Ajout', 'dateDerModif': '2021-08-05'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901960716', 'denomination': 'RISECAP', 'formeJuridique': '5499', 'nicSiege': '00016', 'codeApe': '4941B', 'dateImmat': '2021-08-02', 'dateDebutActiv': '2021-07-28', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "Transports de marchandises, déménagement ou location de véhicules avec conducteurs destinés au transport de marchandises à l'aide de véhicules n'excédant pas 3,5 tonnes.", 'duree': 99, 'dateClotureExerciceSocial': '3009', 'datePremiereCloture': '2022-09-30', 'ess': False, 'capitalVariable': True, 'montantCapital': 1800.0, 'capitalMinimum': 1800.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': True
+                        }
+                    }, 'structureEntreprise': {'indicateurPrincipalIdemSiege': True, 'aucuneActivite': False
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-02T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5499'
+        }, 'siren': '901960716'
+    },
+    {'updatedAt': '2024-02-24T13: 42: 49+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae3afc49fa7d125812e0d3', 'formality': {'siren': '901967869', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-03', 'societeEtrangere': False, 'formeJuridique': '5710', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '75005', 'commune': 'PARIS 5', 'codeInseeCommune': '75105', 'typeVoie': 'RUE', 'voie': 'AMYOT', 'numVoie': '3'
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90196786900016', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '3', 'dateEffetFermeture': '2023-09-30', 'codeApe': '6202B', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '75005', 'commune': 'Paris', 'codeInseeCommune': '75105', 'typeVoie': 'RUE', 'voie': '3 rue Amyot ', 'numVoie': '3', 'caracteristiques': {'ambulant': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '02080902', 'activiteId': 'd21264b2-be2a-4048-abca-077cfa53204d', 'indicateurPrincipal': False, 'indicateurProlongement': False, 'dateDebut': '2021-07-31', 'dateFin': '2023-12-07', 'indicateurNonSedentaire': False, 'formeExercice': 'LIBERALE_NON_REGLEMENTEE', 'categorisationActivite1': '02', 'categorisationActivite2': '08', 'categorisationActivite3': '09', 'categorisationActivite4': '02', 'descriptionDetaillee': "La création et la maintenance de sites internet et ce que ce soit en France qu'à l'exportation dans l'union Européenne ou en dehors de celle-ci.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': False, 'codeApe': '6202B', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                },
+                                {'categoryCode': '02080901', 'activiteId': '2e6361c7-d947-4d72-83da-efc33fd8bf68', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-31', 'dateFin': '2023-12-07', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '02', 'categorisationActivite2': '08', 'categorisationActivite3': '09', 'categorisationActivite4': '01', 'descriptionDetaillee': "La création et la maintenance de sites internet et ce que ce soit en France qu'à l'exportation dans l'union Européenne ou en dehors de celle-ci.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '6202B', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-07-31T00: 00: 00+02: 00'
+                                }
+                            }
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-12-07', 'dateRadiation': '2023-12-07'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'ca235c18-2ddf-4b0e-8091-1ddf35437194', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1972-12', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'Dovin', 'prenoms': ['FABRICE'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '75005', 'commune': 'Paris', 'codeInseeCommune': '75105'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '2021B244679', 'dateAjout': '2023-12-07', 'texte': 'RADIATION. CLOTURE DES OPERATIONS DE LIQUIDATION LE 30-09-2023 ', 'dateGreffe': '2023-12-07', 'etatObs': 'Ajout', 'dateDerModif': '2023-12-07'
+                            },
+                            {'numObservation': '2021B244675', 'dateAjout': '2023-12-07', 'texte': 'DISSOLUTION A COMPTER DU 15-09-2023, JOURNAL PUBLICATEUR : Les Echos DU : 28-11-2023, adresse de liquidation : au siège social ', 'dateGreffe': '2023-12-07', 'etatObs': 'Ajout', 'dateDerModif': '2023-12-07'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901967869', 'denomination': 'DIGITAL FD', 'formeJuridique': '5710', 'nicSiege': '00016', 'codeApe': '6202B', 'dateImmat': '2021-08-03', 'dateDebutActiv': '2021-07-31', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "La création et la maintenance de sites internet et ce que ce soit en France qu'à l'exportation dans l'union Européenne ou en dehors de celle-ci.", 'duree': 68, 'dateClotureExerciceSocial': '3112', 'datePremiereCloture': '2022-12-31', 'ess': False, 'capitalVariable': False, 'montantCapital': 1200.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-03T00: 00: 00+02: 00', 'dateRadiation': '2023-12-07T00: 00: 00+01: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5710'
+        }, 'siren': '901967869'
+    },
+    {'updatedAt': '2024-02-24T12: 28: 01+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae2fc82336741e7614f82b', 'formality': {'siren': '900540402', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-04', 'societeEtrangere': False, 'formeJuridique': '5499', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '78120', 'commune': 'RAMBOUILLET', 'codeInseeCommune': '78517', 'typeVoie': 'RUE', 'voie': 'G LENOTRE', 'numVoie': '38', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90054040200022', 'activiteNonSedentaire': False, 'enseigne': 'MH DECO RAMBOUILLET', 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '1', 'dateEffetFermeture': '2022-11-30', 'codeApe': '7410Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '78120', 'commune': 'Rambouillet', 'codeInseeCommune': '78517', 'typeVoie': 'RUE', 'voie': ' 38 Rue Théodore Gosselin Lenotre', 'numVoie': '38', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '07051000', 'activiteId': 'd855b57a-4c57-4d16-aab1-752357afff47', 'indicateurPrincipal': False, 'indicateurProlongement': False, 'dateDebut': '2022-02-18', 'dateFin': '2023-05-11', 'indicateurNonSedentaire': False, 'formeExercice': 'LIBERALE_NON_REGLEMENTEE', 'categorisationActivite1': '07', 'categorisationActivite2': '05', 'categorisationActivite3': '10', 'descriptionDetaillee': 'architecte intérieur', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': False, 'codeApe': '7410Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                },
+                                {'categoryCode': '07051100', 'activiteId': '877f4ebf-22f6-42a8-87e7-40c85663a9d0', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2022-02-18', 'dateFin': '2023-05-11', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '07', 'categorisationActivite2': '05', 'categorisationActivite3': '11', 'descriptionDetaillee': 'architecte intérieur', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '7410Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2022-02-18T00: 00: 00+01: 00'
+                                }
+                            }
+                        },
+                        {'descriptionEtablissement': {'rolePourEntreprise': '14', 'siret': '90054040200014', 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateEffetFermeture': '2022-02-18', 'codeApe': '7410Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '34170', 'commune': 'CASTELNAU-LE-LEZ', 'codeInseeCommune': '34057', 'typeVoie': 'AV', 'voie': 'DENIS PAPIN', 'numVoie': '32'
+                            }, 'activites': [
+                                {'activiteId': '416a97dd-a0b6-44b9-9f69-9a48f5647653', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-06-01', 'dateFin': '2022-02-18', 'descriptionDetaillee': 'Activités spécialisées de design', 'indicateurActiviteeApe': True, 'rolePrincipalPourEntreprise': False, 'codeApe': '7410Z', 'activiteRattacheeEirl': False
+                                }
+                            ]
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-05-11', 'dateRadiation': '2023-05-11'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'd6e612d5-466d-4d90-9325-78478287167a', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1996-03', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'FORTEMS', 'prenoms': ['FLORA', 'SERVANE', 'CECILE'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '91290', 'commune': 'Arpajon', 'codeInseeCommune': '91021'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '7132', 'dateAjout': '2022-02-21', 'texte': " Radiation d'office sur réquisition du greffier du tribunal de commerce de Versailles par suite de transfert du siège social à compter du 18/02/2022 du 32 Avenue Denis Papin 34170 Castelnau-le-Lez au 38 Rue Théodore Gosselin Lenotre 78120 Rambouillet Modification relative au sigle à compter du 18/02/2022 Ancienne valeur : Nouvelle valeur : MH DECO RAMBOUILLET La société à associé unique devient une société à plusieurs associés à compter du 18/02/2022 Société à responsabilité limitée (SARL) (société à associé unique ) Société à responsabilité limitée (SARL) Transfert d'un établissement dans le ressort du greffe (transfert entrant) à compter du 18/02/2022 Ancienne valeur : Adresse du siège et établissement principal, 32 Avenue Denis Papin 34170 Castelnau-le-Lez Nouvelle valeur : Adresse du siège et établissement principal, 38 Rue Théodore Gosselin Lenotre 78120 Rambouillet ", 'dateGreffe': '2022-02-21', 'etatObs': 'Ajout', 'dateDerModif': '2022-02-22'
+                            },
+                            {'numObservation': '23496', 'dateAjout': '2023-05-11', 'texte': ' Clôture des opérations de liquidation amiable avec effet à compter du 30/11/2022 ', 'dateGreffe': '2023-05-11', 'etatObs': 'Ajout', 'dateDerModif': '2023-05-12'
+                            },
+                            {'dateAjout': '2023-05-11', 'texte': " Dissolution à compter du 30/11/2022 selon procès-verbal d'assemblée générale en date du 30/11/2022, siège de la liquidation : 9 Impasse du tacot 91290 Arpajon ", 'dateGreffe': '2023-05-11', 'etatObs': 'Ajout', 'dateDerModif': '2023-05-12'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '900540402', 'denomination': "DECO'COTES", 'formeJuridique': '5499', 'nicSiege': '00022', 'codeApe': '7410Z', 'dateImmat': '2021-08-04', 'dateDebutActiv': '2021-06-01', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "architecture d'intérieur", 'sigle': 'MH DECO RAMBOUILLET', 'duree': 99, 'dateClotureExerciceSocial': '3112', 'datePremiereCloture': '2021-12-31', 'ess': False, 'capitalVariable': False, 'montantCapital': 500.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': False, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-04T00: 00: 00+02: 00', 'dateRadiation': '2023-05-11T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5499'
+        }, 'siren': '900540402'
+    },
+    {'updatedAt': '2024-02-24T12: 37: 05+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 1, 'id': '63ae3125e0e85a58e30fcebb', 'formality': {'siren': '900584657', 'content': {'formeExerciceActivitePrincipale': 'ARTISANALE_REGLEMENTEE', 'natureCreation': {'dateCreation': '2021-08-12', 'societeEtrangere': False, 'formeJuridique': '5499', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '27340', 'commune': "PONT DE L'ARCHE", 'codeInseeCommune': '27469', 'typeVoie': 'RUE', 'voie': 'JEAN PRIEUR BP 43'
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '1', 'siret': '90058465700010', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateFinActivite': '2021-09-27', 'codeApe': '4321A', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '27340', 'commune': 'PONT DE L ARCHE', 'codeInseeCommune': '27469', 'typeVoie': 'RUE', 'voie': 'JEAN PRIEUR BP 43', 'caracteristiques': {'ambulant': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '05040300', 'activiteId': 'b43b8fd3-ddc9-4911-af18-cdb7d76c2772', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-04-09', 'dateFin': '2021-08-31', 'exerciceActivite': 'P', 'indicateurNonSedentaire': False, 'formeExercice': 'ARTISANALE_REGLEMENTEE', 'categorisationActivite1': '05', 'categorisationActivite2': '04', 'categorisationActivite3': '03', 'codeAprm': '4321AB', 'descriptionDetaillee': 'TRAVAUX EN ELECTRICITE', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '4321A', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'detailCessationEtablissement': {'dateCessationTotaleActivite': '2021-08-31'
+                            }, 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': True, 'dateDebut': '2021-04-09T00: 00: 00+02: 00', 'dateFin': '2021-08-31T00: 00: 00+02: 00'
+                                }, 'rncs': {'estPresent': False
+                                }
+                            }
+                        }
+                    ], 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '30', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'c86c5505-6701-4493-b8dd-5d790b90d090', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': True, 'titrePresent': False, 'dateDeNaissance': '1990-01', 'dateDeNaissancePresent': True, 'paysNaissancePresent': False, 'codePaysNaissancePresent': False, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'nom': 'MEUNIER', 'prenoms': ['ALEXANDRE', 'GUY', 'VALERE'
+                                        ], 'genre': '1', 'nomUsage': 'MEUNIER'
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '27340', 'commune': 'PONT DE L ARCHE', 'codeInseeCommune': '27469'
+                                    }
+                                }, 'qualiteArtisan': 'ARTISAN'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '900584657', 'denomination': 'AM ELECTRICITE GENERALE', 'formeJuridique': '5499', 'nicSiege': '00010', 'codeApe': '4321A', 'dateImmat': '2021-08-12', 'origineId': '1', 'effectifSalarie': '0', 'effectifApprenti': '0', 'dateDebutActiv': '2021-04-09', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'ess': False, 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': False, 'indicateurAssocieUniqueDirigeant': False
+                        }, 'contratDAppui': {'adresse': {'roleAdressePresent': False, 'codePostalPresent': False, 'communePresent': False, 'codeInseeCommunePresent': False, 'typeVoiePresent': False, 'voiePresent': False, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False
+                            }
+                        }
+                    }, 'structureEntreprise': {'indicateurPrincipalIdemSiege': False
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': True, 'dateImmatriculation': '2021-08-12T00: 00: 00+02: 00'
+                    }, 'rncs': {'estPresent': False
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5499'
+        }, 'siren': '900584657'
+    },
+    {'updatedAt': '2024-02-24T09: 07: 53+01: 00', 'nombreRepresentantsActifs': 2, 'nombreEtablissementsOuverts': 0, 'id': '63ae0d09673de6284810c0ab', 'formality': {'siren': '894299577', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-10', 'societeEtrangere': False, 'formeJuridique': '5499', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '80350', 'commune': 'MERS-LES-BAINS', 'codeInseeCommune': '80533', 'typeVoie': 'RUE', 'voie': 'ROGER LHEUREUX', 'numVoie': '2'
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '89429957700029', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '3', 'dateEffetFermeture': '2022-05-22', 'codeApe': '4791B', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '80350', 'commune': 'Mers-les-Bains', 'codeInseeCommune': '80533', 'typeVoie': 'RUE', 'voie': ' 2 Rue Lheureux', 'numVoie': '2', 'caracteristiques': {'ambulant': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '06050000', 'activiteId': 'da733c4f-3eed-4f8b-abe4-e323335c8cce', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-06-25', 'dateFin': '2022-08-26', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '06', 'categorisationActivite2': '05', 'codeAprm': '8020ZP', 'descriptionDetaillee': 'Achat, ventes par internet de tous produits, achats et ventes de toutes marchandises non réglementées, achats et ventes de tous matériels mobiliers, achats ventes et installation de caméra de surveillance. Achat et vente de tous matériels bâtiments et matériels électriques, location de matériel.', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '4791B', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                },
+                                {'categoryCode': '06030200', 'activiteId': 'f4d1df22-8487-4f13-8e6f-4dab78827b8a', 'indicateurPrincipal': False, 'indicateurProlongement': False, 'dateDebut': '2021-06-25', 'dateFin': '2022-09-06', 'exerciceActivite': 'P', 'indicateurNonSedentaire': False, 'formeExercice': 'ARTISANALE_REGLEMENTEE', 'categorisationActivite1': '06', 'categorisationActivite2': '03', 'categorisationActivite3': '02', 'codeAprm': '8020ZP', 'descriptionDetaillee': 'INSTALLATION DE CAMERA DE SURVEILLANCE', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': False, 'codeApe': '4791B', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                },
+                                {'categoryCode': '06030200', 'activiteId': '4b162262-1919-491c-a889-798d4cffde7f', 'indicateurPrincipal': False, 'indicateurProlongement': False, 'dateDebut': '2021-06-25', 'dateFin': '2022-09-06', 'exerciceActivite': 'P', 'indicateurNonSedentaire': False, 'formeExercice': 'ARTISANALE_REGLEMENTEE', 'categorisationActivite1': '06', 'categorisationActivite2': '03', 'categorisationActivite3': '02', 'codeAprm': '4334ZC', 'descriptionDetaillee': 'INSTALLATION DE CAMERA DE SURVEILLANCE', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': False, 'codeApe': '4791B', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'detailCessationEtablissement': {'dateCessationTotaleActivite': '2022-05-22'
+                            }, 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': True, 'dateDebut': '2021-06-25T00: 00: 00+02: 00', 'dateFin': '2022-05-22T00: 00: 00+02: 00'
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-06-25T00: 00: 00+02: 00'
+                                }
+                            }
+                        },
+                        {'descriptionEtablissement': {'rolePourEntreprise': '14', 'siret': '89429957700011', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '2', 'dateEffetFermeture': '2021-06-25', 'codeApe': '4334Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '75017', 'commune': 'PARIS 17', 'codeInseeCommune': '75117', 'typeVoie': 'RUE', 'voie': 'RENNEQUIN', 'numVoie': '44'
+                            }, 'activites': [
+                                {'categoryCode': '05040500', 'activiteId': 'ab480065-3232-4b65-8878-8a77e63b50ea', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-02-15', 'dateFin': '2022-09-06', 'exerciceActivite': 'P', 'indicateurNonSedentaire': False, 'formeExercice': 'ARTISANALE_REGLEMENTEE', 'categorisationActivite1': '05', 'categorisationActivite2': '04', 'categorisationActivite3': '05', 'codeAprm': '4334ZC', 'descriptionDetaillee': 'TRAVAUX DE PEINTURE', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': False, 'codeApe': '4334Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'detailCessationEtablissement': {'dateCessationTotaleActivite': '2021-06-25'
+                            }, 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': True, 'dateDebut': '2021-06-25T00: 00: 00+02: 00', 'dateFin': '2021-06-25T00: 00: 00+02: 00'
+                                }, 'rncs': {'estPresent': False
+                                }
+                            }
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2022-08-26', 'dateRadiation': '2022-09-06'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '30', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'a9d4ada2-e3fa-4d72-946c-37fd790fc783', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1956-01', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '30', 'nom': 'Mohammed Abdul Halim', 'prenoms': ['INC'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '80350', 'commune': 'Mers-les-Bains', 'codeInseeCommune': '80533'
+                                    }
+                                }
+                            },
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': 'c59adc58-6e64-4c56-af17-84991122070d', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': True, 'titrePresent': False, 'dateDeNaissance': '1956-01', 'dateDeNaissancePresent': True, 'paysNaissancePresent': False, 'codePaysNaissancePresent': False, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'nom': 'MOHAMMED ABDUL HALIM', 'prenoms': ['XXX'
+                                        ], 'genre': '1', 'nomUsage': 'MOHAMMED ABDUL HALIM'
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '80350', 'commune': 'MERS LES BAINS', 'codeInseeCommune': '80533'
+                                    }
+                                }, 'qualiteArtisan': 'SANS QUALIFICATION'
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '2021B0559613', 'dateAjout': '2021-08-11', 'texte': 'RADIATION : ENTREPRISE DESORMAIS IMMATRICULEE AU RCS DE Amiens SOUS LE NUMERO 2021B868 ', 'dateGreffe': '2021-08-11', 'etatObs': 'Ajout', 'dateDerModif': '2021-08-11'
+                            },
+                            {'numObservation': '2021B055961', 'dateAjout': '2021-02-18', 'texte': "L'activité artisanale déclarée a été enregistrée sous condition suspensive de l'immatriculation au répertoire des métiers. La justification de cette immatriculation doit être fournie au greffe dans le mois de la date déclarée du début de cette activité. Faute pour l'assujetti de respecter ce délai, le greffier procède comme il est dit au 2ème alinéa de l'article R 123-100 du code de commerce. ", 'dateGreffe': '2021-02-18', 'etatObs': 'Ajout', 'dateDerModif': '2021-02-23'
+                            },
+                            {'numObservation': 'F21/011297', 'dateAjout': '2021-08-10', 'texte': " L'activité artisanale déclarée a été enregistrée sous condition suspensive de l'immatriculation au répertoire des métiers. La justification de cette immatriculation doit être fournie au greffe dans le mois de la date déclarée du début de cette activité. Faute pour l'assujetti de respecter ce délai, le greffier procède comme il est dit au 2e alinéa de l'article R 123-100 du code de commerce. ", 'dateGreffe': '2021-08-10', 'etatObs': 'Ajout', 'dateDerModif': '2021-08-11'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '894299577', 'denomination': 'IDEA RSP', 'formeJuridique': '5499', 'nicSiege': '00029', 'codeApe': '4791B', 'dateImmat': '2021-08-10', 'origineId': '1', 'effectifSalarie': '1', 'effectifApprenti': '0', 'dateDebutActiv': '2021-02-15', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': 'Achat, ventes par internet de tous produits, achats et ventes de toutes marchandises non réglementées, achats et ventes de tous matériels mobiliers, achats ventes et installation de caméra de surveillance. Achat et vente de tous matériels bâtiments et matériels électriques, location de matériel.', 'duree': 99, 'dateClotureExerciceSocial': '3112', 'ess': False, 'capitalVariable': False, 'montantCapital': 1800.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': True
+                        }, 'contratDAppui': {'adresse': {'roleAdressePresent': False, 'codePostalPresent': False, 'communePresent': False, 'codeInseeCommunePresent': False, 'typeVoiePresent': False, 'voiePresent': False, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False
+                            }
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': True, 'dateImmatriculation': '2021-09-06T00: 00: 00+02: 00', 'dateRadiation': '2022-09-06T00: 00: 00+02: 00'
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-10T00: 00: 00+02: 00', 'dateRadiation': '2022-08-26T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5499'
+        }, 'siren': '894299577'
+    },
+    {'updatedAt': '2024-02-24T13: 28: 01+01: 00', 'nombreRepresentantsActifs': 2, 'nombreEtablissementsOuverts': 0, 'id': '63ae38bc84e84876b015f2cd', 'formality': {'siren': '901556274', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-04', 'societeEtrangere': False, 'formeJuridique': '5710', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '89800', 'commune': 'CHABLIS', 'codeInseeCommune': '89068', 'typeVoie': 'RUE', 'voie': 'AUXERROISE', 'numVoie': '8', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90155627400016', 'activiteNonSedentaire': False, 'enseigne': "VINS D'ICI & D'AILLEURS", 'nomCommercial': "VINS D'ICI & D'AILLEURS", 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '1', 'dateEffetFermeture': '2023-03-27', 'codeApe': '4725Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '89800', 'commune': 'Chablis', 'codeInseeCommune': '89068', 'typeVoie': 'RUE', 'voie': '8 rue Auxerroise ', 'numVoie': '8', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '06030100', 'activiteId': 'ac9d7ab2-ff58-44d4-81b8-6ea3ce7a4a73', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-20', 'dateFin': '2023-03-27', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '06', 'categorisationActivite2': '03', 'categorisationActivite3': '01', 'descriptionDetaillee': 'Cave à vins et spiritueux petite restauration épicerie fine bar à vins', 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '4725Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-07-20T00: 00: 00+02: 00'
+                                }
+                            }
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-03-27', 'dateRadiation': '2023-03-27'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '53', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '8a8f6738-80c9-4c1f-a5e6-ff16d8ec8e46', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1965-07', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '53', 'nom': 'PAGES', 'prenoms': ['NATHALIE'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '84500', 'commune': 'Bollène', 'codeInseeCommune': '84019'
+                                    }
+                                }
+                            },
+                            {'roleEntreprise': '73', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '4961c087-eeff-44f1-aa18-b4a44784d2d1', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1975-07', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '73', 'nom': 'CHAMFORT', 'prenoms': ['ROMAIN', 'GERARD', 'LOUIS'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '84110', 'commune': 'Sablet', 'codeInseeCommune': '84104'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '5', 'dateAjout': '2022-10-03', 'texte': " Le Tribunal de Commerce de AUXERRE a prononcé, en date du 03/10/2022, l'ouverture de la liquidation judiciaire simplifiée sous le numéro 2022/77, date de cessation des paiements le 01/12/2021, et a désigné Monsieur Didier BOURGEOIS : Juge Commissaire, liquidateur Maître Bernard DELIBES 12 boulevard Davout 89000 AUXERRE. Les déclarations de créances sont à déposer au liquidateur dans les deux mois de la publication au Bodacc. ", 'dateGreffe': '2022-10-03', 'etatObs': 'Ajout', 'dateDerModif': '2022-10-04'
+                            },
+                            {'numObservation': '11', 'dateAjout': '2023-03-27', 'texte': " Jugement prononçant la clôture pour insuffisance d'actif en date du : 27/03/2023 ", 'dateGreffe': '2023-03-27', 'etatObs': 'Ajout', 'dateDerModif': '2023-03-28'
+                            },
+                            {'numObservation': '13', 'dateAjout': '2023-03-27', 'texte': " Radiation à la suite du jugement de clôture pour insuffisance d'actif - article R.123-129-1° du code de commerce ", 'dateGreffe': '2023-03-27', 'etatObs': 'Ajout', 'dateDerModif': '2023-03-28'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901556274', 'denomination': "C'NRJ", 'formeJuridique': '5710', 'nicSiege': '00016', 'codeApe': '4725Z', 'dateImmat': '2021-08-04', 'dateDebutActiv': '2021-07-20', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': 'Cave à vins et spiritueux petite restauration épicerie fine bar à vins', 'duree': 99, 'dateClotureExerciceSocial': '3112', 'datePremiereCloture': '2022-12-31', 'ess': False, 'capitalVariable': False, 'montantCapital': 3000.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': False, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-04T00: 00: 00+02: 00', 'dateRadiation': '2023-03-27T00: 00: 00+02: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5710'
+        }, 'siren': '901556274'
+    },
+    {'updatedAt': '2024-02-24T13: 44: 38+01: 00', 'nombreRepresentantsActifs': 1, 'nombreEtablissementsOuverts': 0, 'id': '63ae3b4b6c5cbb032e0cefcb', 'formality': {'siren': '901981001', 'content': {'natureCessation': '1', 'formeExerciceActivitePrincipale': 'COMMERCIALE', 'natureCreation': {'dateCreation': '2021-08-03', 'societeEtrangere': False, 'formeJuridique': '5710', 'microEntreprise': False, 'etablieEnFrance': True, 'salarieEnFrance': True, 'relieeEntrepriseAgricole': False, 'entrepriseAgricole': False, 'eirl': False
+                }, 'personneMorale': {'adresseEntreprise': {'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                        }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '37000', 'commune': 'TOURS', 'codeInseeCommune': '37261', 'typeVoie': 'RUE', 'voie': 'D ENTRAIGUES', 'numVoie': '360', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                            }
+                        }
+                    }, 'autresEtablissements': [
+                        {'descriptionEtablissement': {'rolePourEntreprise': '11', 'pays': 'FRANCE', 'codePays': 'FRA', 'siret': '90198100100018', 'activiteNonSedentaire': False, 'indicateurEtablissementPrincipal': False, 'statutPourFormalite': '1', 'dateEffetFermeture': '2022-12-05', 'codeApe': '4690Z', 'etablissementValidated': False, 'etablissementRdd': True
+                            }, 'adresse': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': True, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': True, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': True, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '37000', 'commune': 'Tours', 'codeInseeCommune': '37261', 'typeVoie': 'RUE', 'voie': "360 rue d'Entraigues ", 'numVoie': '360', 'caracteristiques': {'ambulant': False, 'domiciliataire': False
+                                }
+                            }, 'activites': [
+                                {'categoryCode': '06020200', 'activiteId': '39faf5f2-0f86-4687-a4c5-7c1a9a4a3693', 'indicateurPrincipal': True, 'indicateurProlongement': False, 'dateDebut': '2021-07-14', 'dateFin': '2023-01-17', 'indicateurNonSedentaire': False, 'formeExercice': 'COMMERCIALE', 'categorisationActivite1': '06', 'categorisationActivite2': '02', 'categorisationActivite3': '02', 'descriptionDetaillee': "La société est  constituée sans exercer l'activité.  Import, export, achat, vente, représentation, courtage, commercialisation et distribution de tous objets.", 'indicateurActiviteeApe': False, 'indicateurArtisteAuteur': False, 'indicateurMarinProfessionnel': False, 'rolePrincipalPourEntreprise': True, 'codeApe': '4690Z', 'activiteRattacheeEirl': False, 'origine': {'typeOrigine': '1'
+                                    }
+                                }
+                            ], 'registreAnterieur': {'raa': {'estPresent': False
+                                }, 'rnm': {'estPresent': False
+                                }, 'rncs': {'estPresent': True, 'dateDebut': '2021-07-14T00: 00: 00+02: 00', 'dateFin': '2023-01-03T00: 00: 00+01: 00'
+                                }
+                            }
+                        }
+                    ], 'detailCessationEntreprise': {'dateEffet': '2023-01-17', 'dateRadiation': '2023-01-17'
+                    }, 'composition': {'pouvoirs': [
+                            {'roleEntreprise': '40', 'typeDePersonne': 'INDIVIDU', 'indicateurActifAgricole': False, 'representantId': '56057e09-d588-4b34-8755-031e283b8a6e', 'individu': {'descriptionPersonne': {'sirenPresent': False, 'dateEffetRoleDeclarantPresent': False, 'genrePresent': False, 'titrePresent': False, 'dateDeNaissance': '1968-12', 'dateDeNaissancePresent': True, 'paysNaissancePresent': True, 'codePaysNaissancePresent': True, 'lieuDeNaissancePresent': False, 'codePostalNaissancePresent': False, 'codeInseeGeographiquePresent': False, 'situationMatrimonialePresent': True, 'qualiteDeNonSedentaritePresent': False, 'indicateurDeNonSedentaritePresent': False, 'role': '40', 'nom': 'HASANAT', 'prenoms': ['MOHAMED'
+                                        ]
+                                    }, 'adresseDomicile': {'roleAdressePresent': False, 'codePostalPresent': True, 'communePresent': True, 'codeInseeCommunePresent': True, 'typeVoiePresent': False, 'voiePresent': True, 'voieCodifieePresent': False, 'numVoiePresent': False, 'indiceRepetitionPresent': False, 'distributionSpecialePresent': False, 'communeAnciennePresent': False, 'rgpdPresent': False, 'datePriseEffetAdressePresent': False, 'complementLocalisationPresent': False, 'communeDeRattachementPresent': False, 'caracteristiquesPresent': False, 'indicateurValidationBANPresent': True, 'cedexPresent': False, 'pays': 'FRANCE', 'codePays': 'FRA', 'codePostal': '37000', 'commune': 'Tours', 'codeInseeCommune': '37261'
+                                    }
+                                }
+                            }
+                        ]
+                    }, 'observations': {'rcs': [
+                            {'numObservation': '7', 'dateAjout': '2023-01-03', 'texte': ' DISSOLUTION A COMPTER DU 05-12-2022, JOURNAL PUBLICATEUR : La nouvelle République DU : 05-12-2022, adresse de liquidation : au domicile du liquidateur ', 'dateGreffe': '2023-01-03', 'etatObs': 'Ajout', 'dateDerModif': '2023-01-04'
+                            },
+                            {'numObservation': '15', 'dateAjout': '2023-01-17', 'texte': " RADIATION. CLOTURE DES OPERATIONS DE LIQUIDATION LE 27-12-2022 AVEC DATE D'EFFET AU 31-12-2022 ", 'dateGreffe': '2023-01-17', 'etatObs': 'Ajout', 'dateDerModif': '2023-01-18'
+                            }
+                        ]
+                    }, 'identite': {'entreprise': {'siren': '901981001', 'denomination': 'DISTRIB GOODS', 'formeJuridique': '5710', 'nicSiege': '00018', 'codeApe': '4690Z', 'dateImmat': '2021-08-03', 'dateDebutActiv': '2021-07-14', 'entrepriseValidated': False, 'entrepriseRdd': True
+                        }, 'description': {'objet': "La société est constituée sans exercer l'activité. Intermédiaire du commerce produits divers: Import, Export, achat, vente, représentation, courtage, commercialisation et distribution de tous objets.", 'duree': 99, 'dateClotureExerciceSocial': '3112', 'datePremiereCloture': '2021-12-31', 'ess': False, 'capitalVariable': False, 'montantCapital': 1000.0, 'deviseCapital': 'EUR', 'indicateurOrigineFusionScission': False, 'indicateurAssocieUnique': True, 'indicateurAssocieUniqueDirigeant': False
+                        }
+                    }
+                }, 'registreAnterieur': {'raa': {'estPresent': False
+                    }, 'rnm': {'estPresent': False
+                    }, 'rncs': {'estPresent': True, 'dateImmatriculation': '2021-08-03T00: 00: 00+02: 00', 'dateRadiation': '2023-01-17T00: 00: 00+01: 00'
+                    }
+                }
+            }, 'diffusionINSEE': 'O', 'typePersonne': 'M', 'diffusionCommerciale': True, 'formeJuridique': '5710'
+        }, 'siren': '901981001'
+    }
+]
